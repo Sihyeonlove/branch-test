@@ -2,5 +2,5 @@ first edition
 second edition
 third edition
 issue resolved
-<<<<<<< HEAD
-hotfix my solution
+Hotfix my solution
+New function added	
